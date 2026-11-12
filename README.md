@@ -19,7 +19,7 @@
    - `start`: target start time and time zone
    - `duration`: total duration
    - `inputPath`: input file path (default `src/main/resources/barcelona-hyrox.gpx`)
-3. Run `Main`, or from the terminal
+3. Run `Main` class
 4. Find output file in `src/main/resources` directory
 
 ## Requirements
