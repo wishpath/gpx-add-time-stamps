@@ -21,3 +21,6 @@
    - `inputPath`: input file path (default `src/main/resources/barcelona-hyrox.gpx`)
 3. Run `Main`, or from the terminal
 4. Find output file in `src/main/resources` directory
+
+## Requirements
+* Java 21+
